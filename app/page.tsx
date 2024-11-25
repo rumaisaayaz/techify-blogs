@@ -91,7 +91,7 @@ export default function Home() {
                     Highlight the practical uses of blockchain in supply chains,
                     healthcare, and governance.
                   </p>
-                  <Link href="/blogpost/blockchain-innovations" passHref>
+                  <Link href="/blogpost/blockchain-Innovations" passHref>
                     <Button className="m-2" variant="outline">
                       Read More
                     </Button>
@@ -117,7 +117,7 @@ export default function Home() {
                     Cover Augmented Reality role in gaming, retail, education,
                     emphasizing its accessibility.
                   </p>
-                  <Link href="/blogpost/augmented-reality" passHref>
+                  <Link href="/blogpost/augmented-Reality" passHref>
                     <Button className="m-2" variant="outline">
                       Read More
                     </Button>
@@ -143,7 +143,7 @@ export default function Home() {
                     AI is transforming education with personalized learning and
                     virtual classrooms.
                   </p>
-                  <Link href="/blogpost/ai-in-education" passHref>
+                  <Link href="/blogpost/ai-in-Education" passHref>
                     <Button className="m-2" variant="outline">
                       Read More
                     </Button>
