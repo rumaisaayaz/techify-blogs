@@ -1,7 +1,7 @@
 ---
 title: The Future of Augmented Reality in Everyday Life
 description: Cover AR's role in gaming, retail, and education, emphasizing its accessibility.
-slug: augmented-reality
+slug: augmented-Reality
 date: 08/02/2025
 author: Taylor
 image: /Blog-pic-5.webp

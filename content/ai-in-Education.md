@@ -1,7 +1,7 @@
 ---
 title: AI in Education Revolutionizing Learning in the Digital Age
 description: Discover how AI tools are transforming education, from personalized learning to virtual classrooms, with real-world applications and future possibilities.
-slug: ai-in-education
+slug: ai-in-Education
 date: 08/02/2025
 author: Alex
 image: /Blog-pic-4.jpeg

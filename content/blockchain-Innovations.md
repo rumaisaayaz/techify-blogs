@@ -1,7 +1,7 @@
 ---
 title: Blockchain Beyond Cryptocurrency Innovations Changing the World
 description: Highlight the practical uses of blockchain in supply chains, healthcare, and governance.
-slug: blockchain-innovations
+slug: blockchain-Innovations
 date: 08/02/2025
 author: Sam
 image: /Blog-pic-7.jpeg
